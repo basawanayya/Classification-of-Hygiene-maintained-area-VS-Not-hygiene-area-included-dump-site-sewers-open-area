@@ -1,4 +1,7 @@
 # Classification-of-Hygiene-maintained-area-VS-Not-hygiene-area-included-dump-site-sewers-open-area
+for image dataset and h5 file plz click the link below: 
+https://drive.google.com/drive/folders/1QHHazwZkrm2c-7B4TLmjaZns0yC8YvEZ?usp=sharing
+
 Researchers estimate that more than 8.3 billion tones of plastic has been produced since the early 1950s. 
 Plastic clog sewers and providing breeding grounds for mosquitoes and pests, plastic waste especially plastic bags  can increase the transmission of vector-borne diseases like malaria. (www.unep.org)
 Consider the available statistics: A global material balance study on plastics points out that 79 per cent of the total plastics produced in the world enters our environment as waste. Only 9 per cent of the total plastic waste in the world is recycled. A Central Pollution Control Board (CPCB) report (2018-19) puts the total annual plastic waste generation in India at a humungous 3.3 million metric tones per year. Even this data, frightening as it is, might be an underestimation. While India’s plastic waste problem is not as huge as that of the rich world, it is definitely growing. Richer states like Goa and Delhi produce as much as 60 grams and 37 grams per capita per day respectively – against a national average of 8 grams per capita per day. 
